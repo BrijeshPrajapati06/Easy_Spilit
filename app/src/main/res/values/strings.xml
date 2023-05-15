@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">EasySplit</string>
+
+    <string name="get_start">Get Started</string>
+    <string name="bill_split">Bill splits evenly or seperatly</string>
+    <string name="welcome_es">Welcome to Easy Split</string>
+    <string name="bill_fast_easy">we help you and your friends \nsplits bills fast and easy</string>
+    <string name="wel_come">Welcome,</string>
+    <string name="sign_to_continue">Sign in to continue</string>
+    <string name="forgot_pswd">Forget password?</string>
+    <string name="log_in">Log In</string>
+    <string name="signup_google">Signup with Google</string>
+    <string name="account_signup">don\'t have an account? <font color="#2C6975">Signup</font></string>
+    <string name="create_account">Create Account</string>
+    <string name="signup_started">Sign up to get started!</string>
+    <string name="add_profile">Add Profile</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="otp_verification">OTP Varification</string>
+    <string name="login">Already have a account?<font color="#2C6975">Login</font></string>
+    <string name="send_otp_email">We send you OTP on </string>
+    <string name="emailIdText">abcd@gmail.com</string>
+    <string name="resend_time">Resend OTP </string>
+    <string name="txt_time">3:00</string>
+    <string name="verify">Verify</string>
+    <string name="forgot_password">Forget Password</string>
+    <string name="btncontinue">Continue</string>
+    <string name="create_new_pswd">Create new password</string>
+    <string name="confirm">Confirm</string>
+    <string name="hint_search">Search here …...</string>
+    <string name="hint_adduser">Add manual User</string>
+    <string name="no_data_found">No Data found</string>
+    <string name="new_purchase">New purchase</string>
+    <string name="add_member">Add member</string>
+    <string name="name_ladakh">Leh Ladakh</string>
+    <string name="desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry.</string>
+
+
+    <string name="user_fragment">User</string>
+    <string name="change_password">Change password</string>
+    <string name="purchase_fragment">Purchase</string>
+    <string name="split_fragment">Split!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="select">Select Gender</string>
+
+    <string-array name="questions1">
+        <item>User-1</item>
+        <item>User-2</item>
+        <item>User-3</item>
+        <item>User-4</item>
+
+    </string-array>
+
+    <string name="User">User</string>
+    <string name="Purchase">Purchase</string>
+    <string name="Split">Split</string>
+
+
+</resources>

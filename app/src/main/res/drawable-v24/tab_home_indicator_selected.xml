@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@android:id/background"
+        android:gravity="center_vertical|fill_horizontal"
+        android:left="2dp"
+        android:right="2dp">
+        <shape android:shape="rectangle">
+            <corners android:radius="8dp" />
+            <size android:height="5dp" />
+            <solid android:color="#2C6975" />
+            <padding
+                android:left="3dp"
+                android:right="3dp" />
+        </shape>
+    </item>
+</layer-list><!--<layer-list xmlns:android="http://schemas.android.com/apk/res/android">-->
+
+    <!--    <item>-->
+
+    <!--        <shape-->
+    <!--            android:innerRadius="5dp"-->
+    <!--            android:shape="ring"-->
+    <!--            android:thickness="1dp"-->
+    <!--            android:useLevel="false">-->
+
+    <!--            <solid android:color="#57AC6B" />-->
+
+    <!--        </shape>-->
+
+    <!--    </item>-->
+
+
+    <!--</layer-list>-->
