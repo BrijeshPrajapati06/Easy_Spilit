@@ -8,6 +8,7 @@ import android.view.WindowManager
 import android.widget.Button
 import android.widget.ImageView
 import android.widget.TextView
+import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.RecyclerView
@@ -58,6 +59,8 @@ class MainActivity : AppCompatActivity() {
         // Also register the action name text, of all the FABs.
         tvAddMember = findViewById(com.diyantech.easysplit.R.id.tvAddMember)
         tvNewPurchase = findViewById(R.id.tvNewPurchase)
+
+        Toast.makeText(this, "Hello World", Toast.LENGTH_SHORT).show()
 
         isAllFabsVisible = false
         add_member.visibility = View.GONE
